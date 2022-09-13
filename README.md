@@ -1,8 +1,9 @@
 # Lista 01 Lince-Tech-Academy
 
+:exclamation: arquivos presentes na pasta /lib.
 
+------------
 ##### Praticando lógica de programação
-
 ------------
 
 1. ~~Escreva um programa que receba uma lista de raios de círculos e com base nos raios, calcule o area e o perimetro de cada círculo e exiba no console. Utilize a biblioteca dart:math.~~
