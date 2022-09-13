@@ -1,4 +1,2 @@
-# Lince_Tech_Academy
-
-
-> Exercícios feitos durante o Lince Tech Academy.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
